@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\bin\Debug\net7.0\FactoryMethodPatternExample.exe
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\bin\Debug\net7.0\FactoryMethodPatternExample.deps.json
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\bin\Debug\net7.0\FactoryMethodPatternExample.runtimeconfig.json
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\bin\Debug\net7.0\FactoryMethodPatternExample.dll
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\bin\Debug\net7.0\FactoryMethodPatternExample.pdb
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\obj\Debug\net7.0\FactoryMethodPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\obj\Debug\net7.0\FactoryMethodPatternExample.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\obj\Debug\net7.0\FactoryMethodPatternExample.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\obj\Debug\net7.0\FactoryMethodPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\obj\Debug\net7.0\FactoryMethodPatternExample.dll
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\obj\Debug\net7.0\refint\FactoryMethodPatternExample.dll
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\obj\Debug\net7.0\FactoryMethodPatternExample.pdb
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\obj\Debug\net7.0\FactoryMethodPatternExample.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\obj\Debug\net7.0\ref\FactoryMethodPatternExample.dll

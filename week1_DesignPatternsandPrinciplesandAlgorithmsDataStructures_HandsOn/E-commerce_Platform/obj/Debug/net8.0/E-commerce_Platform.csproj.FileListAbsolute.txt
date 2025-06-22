@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\week1_Solutions\E-commerce_Platform\bin\Debug\net8.0\E-commerce_Platform.exe
+C:\Users\KIIT\Desktop\week1_Solutions\E-commerce_Platform\bin\Debug\net8.0\E-commerce_Platform.deps.json
+C:\Users\KIIT\Desktop\week1_Solutions\E-commerce_Platform\bin\Debug\net8.0\E-commerce_Platform.runtimeconfig.json
+C:\Users\KIIT\Desktop\week1_Solutions\E-commerce_Platform\bin\Debug\net8.0\E-commerce_Platform.dll
+C:\Users\KIIT\Desktop\week1_Solutions\E-commerce_Platform\bin\Debug\net8.0\E-commerce_Platform.pdb
+C:\Users\KIIT\Desktop\week1_Solutions\E-commerce_Platform\obj\Debug\net8.0\E-commerce_Platform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\week1_Solutions\E-commerce_Platform\obj\Debug\net8.0\E-commerce_Platform.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\week1_Solutions\E-commerce_Platform\obj\Debug\net8.0\E-commerce_Platform.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\week1_Solutions\E-commerce_Platform\obj\Debug\net8.0\E-commerce_Platform.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\week1_Solutions\E-commerce_Platform\obj\Debug\net8.0\E-commerce_Platform.dll
+C:\Users\KIIT\Desktop\week1_Solutions\E-commerce_Platform\obj\Debug\net8.0\refint\E-commerce_Platform.dll
+C:\Users\KIIT\Desktop\week1_Solutions\E-commerce_Platform\obj\Debug\net8.0\E-commerce_Platform.pdb
+C:\Users\KIIT\Desktop\week1_Solutions\E-commerce_Platform\obj\Debug\net8.0\E-commerce_Platform.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\week1_Solutions\E-commerce_Platform\obj\Debug\net8.0\ref\E-commerce_Platform.dll

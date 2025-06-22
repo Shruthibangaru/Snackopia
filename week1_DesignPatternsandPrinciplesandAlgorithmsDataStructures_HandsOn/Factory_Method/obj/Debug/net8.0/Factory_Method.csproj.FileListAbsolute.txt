@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\bin\Debug\net8.0\Factory_Method.exe
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\bin\Debug\net8.0\Factory_Method.deps.json
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\bin\Debug\net8.0\Factory_Method.runtimeconfig.json
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\bin\Debug\net8.0\Factory_Method.dll
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\bin\Debug\net8.0\Factory_Method.pdb
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\obj\Debug\net8.0\Factory_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\obj\Debug\net8.0\Factory_Method.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\obj\Debug\net8.0\Factory_Method.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\obj\Debug\net8.0\Factory_Method.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\obj\Debug\net8.0\Factory_Method.dll
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\obj\Debug\net8.0\refint\Factory_Method.dll
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\obj\Debug\net8.0\Factory_Method.pdb
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\obj\Debug\net8.0\Factory_Method.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\week1_Solutions\Factory_Method\obj\Debug\net8.0\ref\Factory_Method.dll
